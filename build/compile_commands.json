@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/ray-tracing-weekend.dir/main.cpp.o -c /home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/main.cpp",
-  "file": "/home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/main.cpp",
-  "output": "CMakeFiles/ray-tracing-weekend.dir/main.cpp.o"
-}
-]

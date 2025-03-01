@@ -1,1 +1,0 @@
-/usr/bin/c++ -g "CMakeFiles/ray-tracing-weekend.dir/main.cpp.o" -o ray-tracing-weekend 
