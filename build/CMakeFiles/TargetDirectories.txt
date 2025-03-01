@@ -1,0 +1,3 @@
+/home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/build/CMakeFiles/ray-tracing-weekend.dir
+/home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/build/CMakeFiles/edit_cache.dir
+/home/ben/Documents/cpp-stuff/ray-tracing-weekend-2/build/CMakeFiles/rebuild_cache.dir
