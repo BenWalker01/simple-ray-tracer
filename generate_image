@@ -1,7 +1,8 @@
 #!/bin/bash
 
+output_file=${1:-image.ppm}
 cmake -B build
 cmake --build build
-build/ray-tracing-weekend > image.ppm 
+build/ray-tracing-weekend > $output_file
 
-echo "created image.ppm"
+echo "created" $output_file
